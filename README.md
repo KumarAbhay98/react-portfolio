@@ -17,22 +17,22 @@ Hi 👋, I am **Abhay** an enthusiastic and ambitious frontend developer and a c
   <h4 align="center" style="color:red">💬Sections:</h4>
 <ul type="*" align="center">
   <li><details align="center">
-    <summary>Landing Page</summary>
+    <summary>🌱Landing Page</summary>
     The landing or home Page has an about section where I used typewriter library to give that typewriter infinte loop effect and then my image and last but not least skill set is displayed.
     </details>
   </li>
   <li><details align="center">
-    <summary>Projects Page</summary>
+    <summary>🌱Projects Page</summary>
     Welcome to the project page made with React! Here, I am thrilled to showcase three of my projects, each of which has been developed using cutting-edge technologies and with an emphasis on user experience. We've pulled all the data for these projects from our very own API, created with precision and care to ensure the most up-to-date information is available to our users. I  has worked hard to bring you an exceptional viewing experience that's both informative and visually appealing. So, without further ado, let's dive into the world of our projects!
     </details>
   </li>
   <li><details align="center">
-    <summary>Contact Page</summary>
+    <summary>🌱Contact Page</summary>
     This page is for those who wants to connect with me over social media handles also if you want to send me any message you can and last but not least you can use my mail id to directly send me email.
     </details>
   </li>
   <li><details align="center">
-    <summary>About</summary>
+    <summary>🌱About</summary>
     I created the about section within landing page itself so while scrolling on landing page when you will click about it will automatically take you to about section...
     </details>
   </li>
@@ -40,11 +40,11 @@ Hi 👋, I am **Abhay** an enthusiastic and ambitious frontend developer and a c
 </ul>
   
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://kumarabhay-portfolio.netlify.app/)
+<p>👨‍💻 All of my projects are available at [Portfolio](https://kumarabhay-portfolio.netlify.app/)</p>
 
-- 💬 Ask me about **open source, web development, and community management**
+  <p>💬 Ask me about **open source, web development, and community management**</p>
 
-- 📫 Reach me out at **Abhaycbr07@gmail.com**
+  <p> 📫 Reach me out at <a href="mailto:Abhaycbr07@gmail.com">**Abhaycbr07@gmail.com**</a></p>
 
 </details>
 </p>
