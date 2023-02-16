@@ -40,7 +40,7 @@ Hi 👋, I am **Abhay** an enthusiastic and ambitious frontend developer and a c
 </ul>
   
 
-<p>👨‍💻 All of my projects are available at <a href="https://kumarabhay-portfolio.netlify.app/" >[Portfolio]</a></p>
+<p>👨‍💻 All of my projects are available at <a href="https://kumarabhay-portfolio.netlify.app/Projects" >[Projects]</a></p>
 
   <p>💬 Ask me about **Frontend, web development, and React-concepts**</p>
 
