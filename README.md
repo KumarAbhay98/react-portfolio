@@ -48,3 +48,6 @@ Hi 👋, I am **Abhay** an enthusiastic and ambitious frontend developer and a c
 
 </details>
 </p>
+<hr>
+<h2 align="center">Take a chill pill!</h2>
+<img src="https://giphy.com/embed/euxIs43Lrk2b4qPwv4" width="100%" height="100>
