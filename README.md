@@ -11,9 +11,19 @@ Hi 👋, I am **Abhay** an enthusiastic and ambitious frontend developer and a c
 
 - 🔭 I used libraries like : "aos" , "typewriter-effect", "react-icons" , "animate.css", "react-sound"...
 
-- I’m currently learning **everything** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
+<p>I made components like navbar, footer, sound-player, project-display-section, about-me, go-up-btn, message-me-section.
+  <h4 align="center" style="color:red">💬Sections:</h4>
+<ul align="center">
+  <li><details align="center">
+    <summary>Landing Page</summary>
+    The landing or home Page has an about section where I used typewriter library to give that typewriter infinte loop effect and then my image and last but not least skill set is displayed.
+    </details>
+  </li>
+  <li>Projects</li>
+  <li>About</li>
+  <li>Contact</li>
+</ul>
+  
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://kumarabhay-portfolio.netlify.app/)
 
