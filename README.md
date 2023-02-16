@@ -4,14 +4,16 @@
 <p>
 Hi 👋, I am **Abhay** an enthusiastic and ambitious frontend developer and a creative designer. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
 
-<p align="center"><b> And here you can see my</b> react-portfolio...<a target="_blank" href='https://kumarabhay-portfolio.netlify.app/'>https://kumarabhay-portfolio.netlify.app/</a></p>
+
 <p align="center">Welcome to my portfolio, crafted with love and designed with innovation. My portfolio is powered by React and boasts a collection of my most recent projects, each of which has been created with care, precision and an eye for detail. As you scroll through my portfolio, you'll notice the striking animations and cool transitions that bring my content to life. With a focus on interactivity and seamless user experience, my portfolio is a testament to my passion for design and front-end development. So, sit back, relax, and enjoy the ride as we take you on a journey through my work, skills, and aspirations.</p>
+<hr>
+<p align="center"><b> Link: </b><a target="_blank" href='https://kumarabhay-portfolio.netlify.app/'>https://kumarabhay-portfolio.netlify.app/</a></p>
 
 <details align="center">
-  <summary>More details about Portfolio🖊️</summary>
+  <summary>🔭For More Details...🖊️</summary>
 🔭 I used libraries like : "aos" , "typewriter-effect", "react-icons" , "animate.css", "react-sound"...
-
 <p>I made components like navbar, footer, sound-player, project-display-section, about-me, go-up-btn, message-me-section.
+  
   <h4 align="center" style="color:red">💬Sections:</h4>
 <ul type="*" align="center">
   <li><details align="center">
@@ -26,10 +28,15 @@ Hi 👋, I am **Abhay** an enthusiastic and ambitious frontend developer and a c
   </li>
   <li><details align="center">
     <summary>Contact Page</summary>
-    The landing or home Page has an about section where I used typewriter library to give that typewriter infinte loop effect and then my image and last but not least skill set is displayed.
+    This page is for those who wants to connect with me over social media handles also if you want to send me any message you can and last but not least you can use my mail id to directly send me email.
     </details>
   </li>
-  <li>✨✨About✨✨</li>
+  <li><details align="center">
+    <summary>About</summary>
+    I created the about section within landing page itself so while scrolling on landing page when you will click about it will automatically take you to about section...
+    </details>
+  </li>
+  
 </ul>
   
 
