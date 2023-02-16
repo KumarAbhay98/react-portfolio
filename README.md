@@ -24,6 +24,8 @@ Hi 👋, I am **Abhay** an enthusiastic and ambitious frontend developer and a c
   <li><details align="center">
     <summary>🌱Projects Page</summary>
     Welcome to the project page made with React! Here, I am thrilled to showcase three of my projects, each of which has been developed using cutting-edge technologies and with an emphasis on user experience. We've pulled all the data for these projects from our very own API, created with precision and care to ensure the most up-to-date information is available to our users. I  has worked hard to bring you an exceptional viewing experience that's both informative and visually appealing. So, without further ado, let's dive into the world of our projects!
+    
+    <b>✨The portfolio is completely responsive!!</b>
     </details>
   </li>
   <li><details align="center">
@@ -49,5 +51,10 @@ Hi 👋, I am **Abhay** an enthusiastic and ambitious frontend developer and a c
 </details>
 </p>
 <hr>
-<h2 align="center">Take a chill pill!</h2>
-<img src="https://giphy.com/embed/euxIs43Lrk2b4qPwv4" width="100%" height="100>
+<div align="center">
+<h2>Take a chill pill!</h2>
+<img src="https://media0.giphy.com/media/euxIs43Lrk2b4qPwv4/200w.webp?cid=ecf05e47qyzqhk50r8wzmww5hhqg8rpam3pkm8kx3c27a4hz&rid=200w.webp&ct=g" width:7px;height:4px;>
+</div>
+
+<hr>
+<p align="center" style="backgroundcolor:black">Have a look on <a href="https://kumarabhay-portfolio.netlify.app/">^^Portfolio^^</a>
