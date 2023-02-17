@@ -4,10 +4,6 @@ import Header from '../Components/Header'
 import ScrollToTop from '../Components/GoUpBtn'
 import Footer from '../Components/Footer'
 import ProjectSection from '../Components/ProjectSection'
-
-
-
-
 const Projects = () => {
   return (
     <>
@@ -19,15 +15,8 @@ const Projects = () => {
     <ProjectSection/>
     <br/>
     <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
     <Footer/>
-    
-    
     </>
-    
   )
 }
 
