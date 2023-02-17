@@ -5,9 +5,6 @@ import Intro from '../Components/Intro'
 import ScrollToTop from '../Components/GoUpBtn'
 import Footer from '../Components/Footer'
 
-
-
-
 const Home = () => {
   return (
     <>
@@ -16,7 +13,6 @@ const Home = () => {
       <Intro/>
       <ScrollToTop/>
       <Footer />
-      
     </>
   )
 }
