@@ -4,8 +4,6 @@ import ScrollToTop from '../Components/GoUpBtn'
 import ContactContent from '../Components/ContactContent'
 import Footer from '../Components/Footer'
 import ContactMessage from '../Components/ContactMessage'
-
-
 const Contact = () => {
   return (
     <>
@@ -15,7 +13,6 @@ const Contact = () => {
       <ScrollToTop/>
       <Footer />
     </>
-
   )
 }
 
